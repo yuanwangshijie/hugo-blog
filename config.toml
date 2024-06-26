@@ -302,9 +302,9 @@ scale = true
 fullscreen = true
 # 文章页面的分享信息设置
 [params.page.share]
-enable = true
-Twitter = true
-Weibo = true
+enable = false
+Twitter = false
+Weibo = false
 Facebook = false
 Linkedin = false
 Whatsapp = false
