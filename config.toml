@@ -541,8 +541,8 @@ priority = 0.5
 
 # Permalinks 配置
 [Permalinks]
-# posts = ":filename"
-posts = ":year/:month/:filename"
+# posts = "/:year/:month/:day/:filename/"
+posts = "/:year/:month/:day/:title/"
 
 # 隐私信息配置
 [privacy]
