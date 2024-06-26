@@ -1,13 +1,10 @@
 ---
 title: 好用的Docker应用汇总
-date: 2023-02-01T07:00:00+08:00
-lastmod: 2024-06-26T07:00:00+08:00
+date: 2023-02-01
+lastmod: 2024-06-26
 categories: ["工具"]
 tags: ["Docker"]
-lightgallery: true
-# featuredImage: /images/feature.png
 ---
-
 
 > 本文收集一些比较有趣的Docker应用，镜像版本更新可能会导致脚本或配置失效，如果无法使用请发邮件给我。
 

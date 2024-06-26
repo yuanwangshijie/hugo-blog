@@ -105,7 +105,7 @@ title = "远望世界' Blog"
 # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
 description = "远望世界' Blog"
 # 网站图片, 用于 Open Graph 和 Twitter Cards
-images = ["/avatar.png"]
+images = ["/icons/avatar.png"]
 
 # 页面头部导航栏配置
 [params.header]
@@ -209,7 +209,7 @@ enable = true
 # Gravatar 邮箱，用于优先在主页显示的头像
 gravatarEmail = ""
 # 主页显示头像的 URL
-avatarURL = "/avatar.png"
+avatarURL = "/icons/avatar.png"
 # 主页显示的网站标题 (支持 HTML 格式)
 title = ""
 # 主页显示的网站副标题 (允许 HTML 格式)
@@ -244,9 +244,9 @@ hiddenFromHomePage = false
 # 是否在搜索结果中隐藏一篇文章
 hiddenFromSearch = false
 # 是否使用 twemoji
-twemoji = false
+twemoji = true
 # 是否使用 lightgallery
-lightgallery = false
+lightgallery = true
 # 是否使用 ruby 扩展语法
 ruby = true
 # 是否使用 fraction 扩展语法

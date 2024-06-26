@@ -1,10 +1,8 @@
 ---
 title: MarkDown学习笔记
-date: 2022-03-01T07:00:00+08:00
+date: 2022-03-01
 categories: ["教程"]
 tags: ["MarkDown"]
-lightgallery: true
-# featuredImage: /images/feature.png
 ---
 
 ## 一、标题

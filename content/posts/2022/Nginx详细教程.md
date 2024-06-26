@@ -1,10 +1,8 @@
 ---
 title: Nginx详细教程
-date: 2022-07-01T07:00:00+08:00
+date: 2022-07-01
 categories: ["教程"]
 tags: ["Nginx"]
-lightgallery: true
-# featuredImage: /images/feature.png
 ---
 
 ## 一、Nginx介绍

@@ -3,8 +3,6 @@ title: CSS3毛玻璃效果
 date: 2022-12-27T07:00:00+08:00
 categories: ["教程"]
 tags: ["CSS3","毛玻璃"]
-lightgallery: true
-# featuredImage: /images/feature.png
 ---
 
 ## backdrop-filter与filter的区别

@@ -1,10 +1,8 @@
 ---
 title: MybatisPlus条件构造器
-date: 2022-06-01T07:00:00+08:00
+date: 2022-06-01
 categories: ["教程"]
 tags: ["MybatisPlus"]
-lightgallery: true
-# featuredImage: /images/feature.png
 ---
 
 > 本文转自：https://blog.csdn.net/bird_tp/article/details/105587582<br>

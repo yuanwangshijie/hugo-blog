@@ -1,10 +1,8 @@
 ---
 title: Docker常用命令整理
-date: 2022-05-01T07:00:00+08:00
+date: 2022-05-01
 categories: ["教程"]
 tags: ["Docker"]
-lightgallery: true
-# featuredImage: /images/feature.png
 ---
 
 > 整理一些常用的Docker命令<br>
