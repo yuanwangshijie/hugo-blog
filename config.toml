@@ -87,7 +87,7 @@ identifier = "note"
 pre = ""
 post = ""
 name = "📝随记"
-url = "https://note.qiang.uk/"
+url = "https://memo.qiang.uk/"
 title = ""
 
 [params]
