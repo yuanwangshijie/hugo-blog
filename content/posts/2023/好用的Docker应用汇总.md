@@ -11,6 +11,7 @@ tags: ["Docker"]
 ## 一、安装环境
 * 系统 `Ubuntu` 已开启 `BBR加速` [BBR加速开启脚本](https://blog.ylx.me/archives/783.html)
 * 安装 `docker` 和 `docker-compose`最新版本 [教程地址](https://www.runoob.com/docker/ubuntu-docker-install.html)
+* 国内用户搭配镜像加速食用更佳 `https://docker.1v1.uk`
 
 ## 二、应用汇总
 ### zerotier
