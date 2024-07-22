@@ -60,13 +60,13 @@ outputs:
     - JSON
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable Google Analytics, opengraph, twitter-cards and schema.
   description: ""
   author: 远望世界
   # author: ["Me", "You"] # multiple authors
   defaultTheme: auto
   # disableThemeToggle: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowReadingTime: true
   # disableSpecial1stPost: true
   displayFullLangName: true
