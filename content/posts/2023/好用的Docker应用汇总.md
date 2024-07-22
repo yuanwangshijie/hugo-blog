@@ -1,7 +1,6 @@
 ---
 title: 好用的Docker应用汇总
 date: 2023-02-01
-lastmod: 2024-06-26
 categories: ["工具"]
 tags: ["Docker"]
 ---
