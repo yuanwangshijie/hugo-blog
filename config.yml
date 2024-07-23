@@ -34,7 +34,7 @@ languages:
       series: series
     menu:
       main:
-        - name: 主页
+        - name: 文章
           url: posts
           weight: 1
         - name: 搜索
@@ -88,7 +88,7 @@ params:
     # imageWidth: 120
     # imageHeight: 120
     buttons:
-      - name: 主页
+      - name: 文章
         url: posts
       - name: 随记
         url: https://memo.qiang.uk/
