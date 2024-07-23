@@ -17,7 +17,7 @@ mainsections: [ "posts" ]
 defaultContentLanguage: "zh"
 hasCJKLanguage: true # 是否包括中日韩文字
 
-Permalinks:
+permalinks:
   posts: "/:year/:month/:day/:title/"
 
 minify:
