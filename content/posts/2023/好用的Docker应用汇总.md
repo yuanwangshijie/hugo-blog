@@ -1053,3 +1053,25 @@ services:
     environment:
       - TZ=Asia/Shanghai
 ```
+
+### yourls(短链接工具)
+> [镜像地址](https://hub.docker.com/_/yourls) [github地址](https://github.com/YOURLS/YOURLS)<br>
+> 首次登录需要访问 `http://<host-ip>:8080/admin/`，初始化数据库。
+```yaml
+services:
+  yourls:
+    image: yourls
+    container_name: yourls
+    restart: unless-stopped
+    ports:
+      - 8080:80
+    environment:
+      - TZ=Asia/Shanghai
+      - YOURLS_DB_HOST=your-mysql-host
+      - YOURLS_DB_USER=your-mysql-user
+      - YOURLS_DB_PASS=your-mysql-password
+      - YOURLS_DB_NAME=yourls
+      - YOURLS_SITE=https://example.com
+      - YOURLS_USER=your-site-user
+      - YOURLS_PASS=your-site-password
+```
