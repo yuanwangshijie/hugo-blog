@@ -98,11 +98,14 @@ params:
     Content: 欢迎光临，这是我的个人博客。
 
   socialIcons:
-    - name: Github
-      title: Github
+    - name: email
+      title: email
+      url: "mailto:yuanwangshijie@gmail.com"
+    - name: github
+      title: github
       url: "https://github.com/yuanwangshijie"
-    - name: X
-      title: X
+    - name: x
+      title: x
       url: "https://x.com/yuanwangshijie"
 
   editPost:
