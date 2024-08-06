@@ -1056,7 +1056,7 @@ services:
 
 ### yourls(短链接工具)
 > [镜像地址](https://hub.docker.com/_/yourls) [github地址](https://github.com/YOURLS/YOURLS)<br>
-> 首次登录需要访问 `http://<host-ip>:8080/admin/`，初始化数据库。
+> 首次登录需要初始化数据库，管理面板地址：`http://<your-site-ip>:8080/admin/`
 ```yaml
 services:
   yourls:
